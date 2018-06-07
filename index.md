@@ -6,7 +6,7 @@ The computer science department offers a Computer and Information Technology (CI
 
 ### CIT Courses & Content
 * CIS 110: IT concepts, HTML & CSS
-* CIS 111: WebDev w/JavaScipt (ES6)
+* CIS 111: WebDev w/JavaScript (ES6)
 * CIT 281: Unix Shell; Git & Github; jQuery; AJAX (fetch & promises); Node &  Express; ES6 Classes & Super; React; Github Pages
 * CIT 381: Relational Databases
 * CIT 382: WebDev Frameworks (Meteor & React)
