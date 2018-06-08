@@ -17,5 +17,8 @@ The computer science department offers a Computer and Information Technology (CI
 * [CIS 110 Projects](http://pages.uoregon.edu/igarcia/110/) (uoregon.edu)
 * [CIS 111 Projects](http://pages.uoregon.edu/igarcia/111/) (uoregon.edu)
 * CIT 281 Projects
+  * P1 Project Page
+  * P2 Project Page
   * [P3 Project Page](https://uo-cit.github.io/project-3-isabella-garcia/) (GitHub)
   * [P4 Project Page](https://uo-cit.github.io/project-4-isabella-garcia/) (Github)
+  * P5 Project Page
